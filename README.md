@@ -12,4 +12,6 @@ use of AI is only accepted when tryna get a Education or Last Resort. Otherwise,
 
 // 3. I code in languages like C, C++, C#, Python etc. (best at C++ & Python)
 
-// 4. Just Vibe bro
+// 4. Practiced SQL Injection (Best), XSS, Access control vulnerabilities. (Practiced on portswigger.net)
+
+// 5. Just Vibe bro
