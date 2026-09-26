@@ -14,4 +14,38 @@ use of AI is only accepted when tryna get a Education or Last Resort. Otherwise,
 
 // 4. Practiced SQL Injection (Best), XSS, Access control vulnerabilities. (Practiced on portswigger.net)
 
-// 5. Just Vibe bro
+// 5. No racism, homophobia, transphobia, sexism, or similar harassment.
+
+// 6. DO NOT SAY ANYTHING OFFENSIVE AND TRY TO COVER IT UP WITH "Its just a Joke."
+
+// 7. Absolutely no Discrimination.
+
+// 8. Just don't be weird.
+
+// 9. Respect people's opinions.
+
+// 10. Just vibe.
+
+
+
+
+
+
+Artists that will get you kicked out my car (Feature or Main Artist.)
+Drake
+BlueFace
+6ix9ine
+Ed Sheeran
+Taylor Swift
+Jason Derulo
+Morgan Wallen
+BlackPink
+BTS
+katseye
+billie eilish
+Sabrina Carpenter
+sombr
+d4vd
+Chris Brown
+Kendrick Lamar
+Dr.Dre
